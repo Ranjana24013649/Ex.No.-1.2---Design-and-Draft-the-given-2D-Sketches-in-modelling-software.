@@ -1,3 +1,5 @@
+## REG NO: 212224040270
+## Name: Ranjana R
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
@@ -35,8 +37,13 @@
  ## SKETCH
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
+
+ 
+
+
  ## OUTPUT
  
+  <img width="1294" height="922" alt="image" src="https://github.com/user-attachments/assets/e5adb73e-158f-4519-8031-e8accac62114" />
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
